@@ -150,8 +150,3 @@ SpriteGameOpenTk/
 ## License
 
 MIT (or your preference).
-
----
-
-**a.** Want a minimal `Program.cs` + ready-to-use `.csproj` zipped together?
-**b.** Should I add a public-domain sprite sheet and pre-tuned constants?
